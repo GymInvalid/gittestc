@@ -1,0 +1,9 @@
+D:\c#4\Байрамов Кянан\supertest\bin\Debug\supertest.exe.config
+D:\c#4\Байрамов Кянан\supertest\bin\Debug\supertest.exe
+D:\c#4\Байрамов Кянан\supertest\bin\Debug\supertest.pdb
+D:\c#4\Байрамов Кянан\supertest\obj\Debug\supertest.csprojAssemblyReference.cache
+D:\c#4\Байрамов Кянан\supertest\obj\Debug\supertest.Properties.Resources.resources
+D:\c#4\Байрамов Кянан\supertest\obj\Debug\supertest.csproj.GenerateResource.cache
+D:\c#4\Байрамов Кянан\supertest\obj\Debug\supertest.csproj.CoreCompileInputs.cache
+D:\c#4\Байрамов Кянан\supertest\obj\Debug\supertest.exe
+D:\c#4\Байрамов Кянан\supertest\obj\Debug\supertest.pdb
